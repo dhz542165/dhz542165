@@ -7,7 +7,7 @@
 </p>
 </p>
 
-                                                          Réseaux sociaux
+                                                           Réseaux sociaux
 
 <p align="center">
 <a href="https://discord.gg/ZKJcrDddYx" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/1818px-Discord_Logo_sans_texte.svg.png" alt="Discord" height="30" width="30"/></a>
