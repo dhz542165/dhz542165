@@ -1,6 +1,6 @@
 
  <p align="center">
-<a href="https://www.youtube.com/c/DeltaDev/videos" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-3/404546606415740940.png" alt="Discord" /></a>
+<a href="dsc.bio/dhz" target="blank"><img align="center" src="https://discord.c99.nl/widget/theme-3/404546606415740940.png" alt="Discord" /></a>
 </p>
  <p align="center">
 <a href="https://www.youtube.com/c/DeltaDev/videos" target="blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/UC4U91XhP8Uw1ewnYzZJI6eg?label=s%27abonner&style=for-the-badge" alt="Youtube Delta-Dev" /></a>
